@@ -1,3 +1,2 @@
 # Learning-Git
-learning Git and GitHub
-This is the repository which i created just foe kearning git and github.
+This is the repository which i created just for kearning git and github.
